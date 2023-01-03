@@ -1,0 +1,1 @@
+{"id":"aa9c45e6-e7c9-41ed-a36e-8f316dd81b32","space":26756,"runtime":"nodejs14.x","name":"backend","path":"gstnat","project":"d07jlai2","account":"144798365827","region":"ap-south-1","deps":["express@^4.18.2","deta@^1.1.0"],"envs":null,"public":true,"log_level":"debug","cron":""}
